@@ -1,3 +1,3 @@
 # Javascript
 
-This is my test repository for Javascript files.
+This is my repository for Javascript projects.
